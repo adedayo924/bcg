@@ -1,0 +1,4 @@
+#Tue Nov 22 21:24:40 WAT 2022
+base.0=/home/jeilo/StudioProjects/bcg/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
